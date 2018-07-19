@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = 'emulator-5554'
+app = "/Users/aparecidooliveira/Desktop/filmes/Appium_04/build/apk/app-debug.apk"
+noReset = true
