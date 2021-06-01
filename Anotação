@@ -1,0 +1,1042 @@
+Aparecido (Chefinho)  11:02 AM
+cucumber --i18n-keywords pt
+
+
+Aparecido (Chefinho)  12:08 PM
+page_class
+12:12
+find_element(class: )[posicao dele].name
+
+Aparecido (Chefinho)  3:20 PM
+cucumber -p android features/lista_filmes.feature
+3:21
+arc toml android_appium.txt
+
+Aparecido (Chefinho)  5:14 PM
+Se é viável manter todas as estrutura de teste e um único repositório (api contrato , uai )
+
+Aparecido (Chefinho)  10:06 AM
+uiautomatorviewer
+
+Aparecido (Chefinho)  10:36 AM
+text('LISTA FILMES').click
+10:37
+find_element(:id, 'botao').click
+       id('botao').click
+
+Aparecido (Chefinho)  9:11 AM
+abre os devices ativo para uso     ==>         instruments -s devices
+abri o device             =>                       xcrun instruments -w "iPhone 6s (11.4)"
+abri o macacajs        =>             app-inspector -u 6EBF0EE7-E196-475B-8740-617543D545B1
+
+Aparecido (Chefinho)  3:32 PM
+https://www.youtube.com/watch?v=KmYsIrm1qZo
+
+YouTubeYouTube | SQAS
+Papel do Analista de Testes no Scrum | Kauê Bariani 
+
+
+Aparecido (Chefinho)  4:21 PM
+http://www.mindmaster.com.br/manifesto-agil/
+
+MindMaster TreinamentosMindMaster Treinamentos
+O Manifesto Ágil: Uma revolução nos projetos - MindMaster Treinamentos
+Nos dias 11 a 13 de fevereiro de 2001, nas montanhas Wasatch no estado americano de Utah, ocorreu uma das reuniões mais importantes para os profissio
+
+Aparecido (Chefinho)  3:45 PM
+cucumber -p android -t @smoke_test
+
+Aparecido (Chefinho)  4:02 PM
+emulator-5554
+
+Aparecido (Chefinho)  3:58 PM
+adb logcat -c *:E       pega os log de erro
+
+Aparecido (Chefinho)  4:00 PM
+# Anbima | Data
+## missão
+*
+## visão
+*
+## valores
+*
+*
+*
+*
+*
+## Dores do mundo
+*
+*
+*
+## Definition of Done
+*
+*
+*
+*
+*
+*
+*
+# Eventos Scrum
++ [Sprint Review](sprint-review)
++ [Sprint Retrospective](sprint-retrospective)
+# Eventos de aprendizado
++ [Incidentes](incidentes-de-ambiente)
+# menu
++ [documentação convisio](documentacao-convisio.md)
++ [documentação TSM] (documentacao-tsm.md)
+# referências
++ [JIRA](projetoodete.atlassian.net)
++ [Slack](https://cartaobranco.slack.com/)
++ [Firebase](https://console.firebase.google.com/u/0/project/itauv1/overview)
++ Pismo
+ + [Landing Page](https://apps-itau.pismo.cloud)
+ + [Account](https://account-itau.pismo.cloud)
+ + [BackOffice](https://backoffice-itau.pismo.cloud)
+ + [CRM](https://crm-itau.pismo.cloud)
+ + [Dashboards](https://dashboards-itau.pismo.cloud)
+ + [Onboarding](https://onboarding-itau.pismo.cloud)
+ + [Parameters](https://parameters-itau.pismo.cloud)
+ + [Platform](https://platform-itau.pismo.cloud)
+ + [Pismo Apiary](http://docs.pismoaccount.apiary.io/#reference/servicos)
+ + [Pismo APIs](https://app.zeplin.io/project/595ce9b062b83f153a8f0462)
++ Devops
+ + [aws-organization](http://gitlab.plataformacb.com/gif-odete/docs/wikis/devops)
+ + [Procedimento cloud-trail](http://gitlab.plataformacb.com/gif-odete/docs/wikis/cloud-trail-centralizacao)
+ + [Planilhas de redes](http://gitlab.plataformacb.com/gif-odete/docs/wikis/aws-network)
+ + [Levantamento de serviços](http://gitlab.plataformacb.com/gif-odete/docs/wikis/levantamento-de-servicos)
+ + [fluxo devops ci](http://gitlab.plataformacb.com/gif-odete/docs/wikis/fluxo-devops-ci)
++ Interface e Tasks
+ + [Apresentação inicial](https://drive.google.com/file/d/19hT5Ao_XsqAmPYw1To68dcaVavGbrH1V/view?usp=sharing)
+ + [V1 Fluxo principal e Pismo endpoint](https://realtimeboard.com/app/board/o9J_k0FKQA4=/)
+ + [Tech Boards](https://realtimeboard.com/app/board/o9J_k0STbTw=/)
+ + [Layout para desenvolvimento Android](https://app.zeplin.io/project/598b24d885316be317c99924)
+ + [iOS](https://app.zeplin.io/project/598b237fab2438b0573ca008)
+ + [Planilha de bugs (formato para o banco)](https://docs.google.com/spreadsheets/d/1maPOqTQPki4JmkUs1ggGd6gV6XmxKeHZ_mgITJk6rtU/edit?usp=sharing)
+ + [Dev team User Stories Android board:](https://app.asana.com/0/416082213236041/board)
+ + [iOS board](https://app.asana.com/0/416939040507937/board)
++ Segurança e Prevenção a Fraudes
+ + [Convisio](https://app.conviso.com.br/home?locale=pt-BR)
+ + Haven
+     + [Haven](https://haven.mobi/haven/releases)
+     + [Manual English - Android and iOS English HavenSDK 1.1.16](https://drive.google.com/file/d/0BwfHz9LwgBshRE5VWGVBbkZPZlhneURkVnJhS0UtQXlOOFA0/view?usp=sharing)
+ + [Touch ID](seguranca-touchid.md)
++ Testes e Qualidade
+ + [Estratégia de Testes](https://gitlab.plataformacb.com/gif-odete/docs/wikis/Estrategia-de-testes)
+ + [Weaver-Report](https://weaver.plataformacb.com)
+4:00
+Untitled 
+# Anbima | Data
+​
+## missão
+​
+* 
+Click to expand inline (83 lines)
+
+
+
+
+Aparecido (Chefinho)  1:53 PM
+3977
+01318-8
+
+Aparecido (Chefinho)  9:43 AM
+3977
+01318-8
+
+Aparecido (Chefinho)  10:52 AM
+@Aparecido (Chefinho) Ferreira tenta a 3977 05201-2, senha 111111, esta com saldo.
+
+Aparecido (Chefinho)  9:42 AM
+Consegui transferir pelo app...
+Loga com a conta 1500 01023-4
+Transfere para 1500 01004-4
+9:45
+Aparecido       1500             0060377-2                      12300001                147258
+
+Aparecido (Chefinho)  2:45 PM
+https://docs.google.com/spreadsheets/d/1VxAmGSBiQV7igGzCHbfH8qHNN_onHw5D2voOHtIeabA/edit#gid=2099410742
+
+Aparecido (Chefinho)  11:41 AM
+http://www.caelum.com.br/apostila-java-testes-xml-design-patterns/reflection-e-annotations/#9-5-usando-bem-anotacoes
+
+Apostilas CaelumApostilas Caelum
+Reflection e Annotations - Laboratório Java com Testes, XML e Design Patterns (1 kB)
+http://www.caelum.com.br/apostila-java-testes-xml-design-patterns/reflection-e-annotations/#9-5-usando-bem-anotacoes
+
+
+Aparecido (Chefinho)  4:36 PM
+ckick ninbu
+
+Aparecido (Chefinho)  9:00 AM
+https://medium.com/concrete-solutions/testes-no-android-com-espresso-parte-2-5180ee03ed9a
+
+MediumMedium
+Testes no Android com Espresso — Parte 2
+Asserções simples e interações com views.
+Reading time
+6 min read
+Aug 10th, 2016 (95 kB)
+https://medium.com/concrete-solutions/testes-no-android-com-espresso-parte-2-5180ee03ed9a
+
+9:01
+https://medium.com/@jeffersontpadua/kotlin-espresso-testes-automatizados-e-expressivos-para-android-65b9a7e4b73a
+
+MediumMedium
+Kotlin + Espresso — Testes Automatizados e Expressivos para Android
+Desenvolver um aplicativo é sempre um desafio, e garantir a manutenabilidade de seu código ao longo do tempo é um desafio maior ainda…
+Reading time
+3 min read
+Feb 25th, 2018
+https://medium.com/@jeffersontpadua/kotlin-espresso-testes-automatizados-e-expressivos-para-android-65b9a7e4b73a
+
+9:01
+https://concrete.com.br/2016/06/10/o-qa-em-um-time-agil/
+
+concrete.com.brconcrete.com.br
+Concrete | O QA em um time ágil
+“Indivíduos e interações mais que processos e ferramentas” (Manifesto Ágil) Como é possível a inserção de qualidade de software no contexto ágil, sem que o processo fique engessado? Ou melhor, como va... (43 kB)
+https://concrete.com.br/2016/06/10/o-qa-em-um-time-agil/
+
+9:01
+https://www.concrete.com.br/2017/04/21/android-testes-locais-ou-instrumentados/
+
+concrete.com.brconcrete.com.br
+Concrete | Android: testes locais ou instrumentados?
+A plataforma Android é tradicionalmente bem adversa a testes. Como o ambiente em que desenvolvemos é um SO diferente daquele que nossa aplicação executará, práticas tradicionais de teste não se aplica... (259 kB)
+https://www.concrete.com.br/2017/04/21/android-testes-locais-ou-instrumentados/
+
+9:02
+https://www.concrete.com.br/2017/11/01/o-diferente-valor-dos-diferentes-testes-em-android-parte-i/
+
+concrete.com.brconcrete.com.br
+Concrete | O diferente valor dos diferentes testes em Android – Parte I
+No dia 25 de agosto apresentei uma palestra sobre testes em Android na Android Dev Conference, um dos maiores eventos sobre o tema, realizado em São Paulo. Estou feliz por ter participado e o que se s... (50 kB)
+https://www.concrete.com.br/2017/11/01/o-diferente-valor-dos-diferentes-testes-em-android-parte-i/
+
+
+Aparecido (Chefinho)  9:53 AM
+screen 
+class Tela_TextInput_Screen
+    def initialize
+        @app= "itau_toolbar_title"
+        @menu = "itau_simple_item"
+        @TextInput = "itau_toolbar_title"
+Click to expand inline (115 lines)
+
+
+
+
+Aparecido (Chefinho)  11:11 AM
+codigo funcionando 
+class Tela_TextInput_Screen
+    def initialize
+        @app= "itau_toolbar_title"
+        @menu = "itau_simple_item"
+        @TextInput = "itau_toolbar_title"
+Click to expand inline (76 lines)
+
+
+
+
+Aparecido (Chefinho)  12:12 PM
+projeto TextInput
+Zip 
+FrameWorkLatamV2.zip
+20 MB Zip20 MB — Click to download
+
+
+
+Aparecido (Chefinho)  4:02 PM
+code 3 
+class Tela_TextInput_Screen
+    def initialize
+        @app= "itau_toolbar_title"
+        @menu = "itau_simple_item"
+        @TextInput = "itau_toolbar_title"
+Click to expand inline (165 lines)
+
+
+
+
+Aparecido (Chefinho)  10:30 AM
+Grasshopper
+
+Aparecido (Chefinho)  10:46 AM
+versao tiago 
+class Tela_TextInput_Screen
+    def initialize
+        @app= "itau_toolbar_title"
+        @menu = "itau_simple_item"
+        @TextInput = "itau_toolbar_title"
+Click to expand inline (168 lines)
+
+
+
+
+Aparecido (Chefinho)  4:50 PM
+20190403_150102.jpg 
+20190403_150102.jpg
+
+
+4:51
+20190403_150050.jpg 
+20190403_150050.jpg
+
+
+
+Aparecido (Chefinho)  4:56 PM
+Image from Android 
+Image from Android
+
+
+
+Aparecido (Chefinho)  3:41 PM
+DAVIDSON 
+class Tela_TextInput_Screen
+  def initialize
+      @app= "itau_toolbar_title"
+      @menu = "itau_simple_item"
+      @TextInput = "itau_toolbar_title"
+Click to expand inline (79 lines)
+
+
+
+
+Aparecido (Chefinho)  1:32 PM
+- Fazer um blog no qual explique como instalar
+Como escrever
+- E como utilizar appium + opencv
+Setup
+- Colocar GIF demonstrando
+- Documentação tudo escrito em PORTUGUÊS
+- Como a gente trabalha para que outros possam criar outros teste baseado nos q ja tem
+
+Aparecido (Chefinho)  9:29 AM
+Untitled 
+# # Esquema do Cenário: comparar os elementos TextInput como ou sem foco com texto e sem texto da matriz
+# #   Dado  que estou na tela TextInput
+# #   Quando selecionar um <elemento> com seu <estado> e <numero> na tela TextInput
+  
+
+
+
+
+Aparecido (Chefinho)  2:35 PM
+DANILO 
+class Tela_TextInput_Screen
+  def initialize
+      @app= "itau_toolbar_title"
+      @menu = "itau_simple_item"
+      @TextInput = "itau_toolbar_title"
+Click to expand inline (54 lines)
+
+
+
+2:36
+DANILO CENARIO 
+Funcionalidade: Comparar os Inputs monetarios
+​
+Esquema do Cenário: Comparar os elementos TextInput da matriz
+  Dado  que estou na tela TextInput
+  Quando tocar em <elemento>
+Click to expand inline (10 lines)
+
+
+
+
+Aparecido (Chefinho)  8:53 AM
+Cenario danilo 1 
+# language: pt
+Funcionalidade: Comparar os Inputs monetarios
+Esquema do Cenário: Comparar os elementos TextInput da matriz
+Click to expand inline (18 lines)
+
+
+
+8:53
+Step Danilo 1 
+Dado("que estou na tela TextInput") do
+     @tela_TextInput=Tela_TextInput_Screen.new
+     @tela_TextInput.Tela_TextInput_Screen
+end
+Click to expand inline (18 lines)
+
+
+
+8:54
+Screen Danilo 1 
+class Tela_TextInput_Screen
+  def initialize
+      @app= "itau_toolbar_title"
+      @menu = "itau_simple_item"
+      @TextInput = "itau_toolbar_title"
+Click to expand inline (47 lines)
+
+
+
+
+Aparecido (Chefinho)  8:42 AM
+https://www.caelum.com.br/apostila-ruby-on-rails/mais-ruby-classes-objetos-e-metodos/#4-19-exercicios-blocos
+
+Apostilas CaelumApostilas Caelum
+Mais Ruby: classes, objetos e métodos - Desenv. Ágil para Web com Ruby on Rails (3 kB)
+https://www.caelum.com.br/apostila-ruby-on-rails/mais-ruby-classes-objetos-e-metodos/#4-19-exercicios-blocos
+
+
+Aparecido (Chefinho)  9:32 AM
+https://www.rubydoc.info/github/appium/ruby_lib/Appium/Android#scroll_to-instance_method
+
+Aparecido (Chefinho)  12:01 PM
+https://www.youtube.com/watch?v=Y8YuI1zDnHg&list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0
+
+YouTubeYouTube | Danilo Aparecido - Torne-se um programador
+Aula 1 - Projeto torne-se um programador - Introdução a linguagem Ruby 
+
+
+Aparecido (Chefinho)  11:44 AM
+metodo 
+ # when 'currency ativado com foco'
+          #   binding.pry
+          #   scroll_to_text('down',@text).click
+          #   elemento = wait_for_click(id:@background,:timeout => 5)
+          #   # elemento = find_element(id:@background).click
+Click to expand inline (7 lines)
+
+
+
+
+Aparecido (Chefinho)  8:45 AM
+Untitled 
+class Tela_text_field_screen
+    def initialize
+      @tela='Itau Text Field'
+      @title = 'text_field'
+      @warning = 'warning_switch'
+Click to expand inline (128 lines)
+
+
+
+
+Aparecido (Chefinho)  1:36 PM
+whatsapp 
+# language: pt
+​
+Funcionalidade: Enviando mensagem no whatsapp para o contato escolhido
+​
+Contexto:
+Click to expand inline (48 lines)
+
+
+
+
+Aparecido (Chefinho)  9:08 AM
+screen flow
+
+Aparecido (Chefinho)  11:33 AM
+https://www.rubydoc.info/github/appium/ruby_lib/Appium/Android#scroll_to-instance_method
+https://en.wikibooks.org/wiki/Ruby_programming/Data_types
+
+Aparecido (Chefinho)  10:28 AM
+httparty fazer poc
+e falar quais as ferramentas para automatizar os outros teste
+
+Aparecido (Chefinho)  9:52 AM
+httparty 
+{
+    "v2/store/order": [
+        {
+    "id": 0,
+    "petId": 0,
+Click to expand inline (13 lines)
+
+
+
+
+Aparecido (Chefinho)  10:17 AM
+https://medium.com/@anchietajunior/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-b%C3%A1sica-rspec-e-capybara-no-rails-5-3865437c86d0
+
+MediumMedium
+Instalação e configuração básica RSpec e Capybara no Rails 5
+Navegando pela web encontramos vários posts e vídeos sobre instalação e possíveis configurações de RSpec e Capybara. Então vamos abordar…
+Reading time
+3 min read
+Oct 1st, 2018
+10:18
+https://medium.com/trainingcenter/automa%C3%A7%C3%A3o-de-testes-em-ruby-com-rspec-e-selenium-d562cc433111            => me salvou
+
+MediumMedium
+Automação de Testes em Ruby com RSpec e Selenium
+O mundo da automação!
+Reading time
+11 min read
+Jun 11th, 2018 (264 kB)
+https://medium.com/trainingcenter/automa%C3%A7%C3%A3o-de-testes-em-ruby-com-rspec-e-selenium-d562cc433111
+
+10:18
+https://github.com/rspec/rspec-rails
+
+GitHubGitHub
+rspec/rspec-rails
+RSpec for Rails-3+. Contribute to rspec/rspec-rails development by creating an account on GitHub.
+10:22
+https://medium.com/@pedrohenriquemartins_43091/testando-api-com-httparty-65ae8fe9e2c5            => rest
+
+MediumMedium
+Testando API com HTTPARTY
+httparty nada mais é do que uma gem ruby que simplifica a manipulação de requisições e respostas REST, ou seja, ele gerará respostas para…
+Reading time
+4 min read
+Sep 10th, 2018 (1 MB)
+https://medium.com/@pedrohenriquemartins_43091/testando-api-com-httparty-65ae8fe9e2c5
+
+
+Aparecido (Chefinho)  3:04 PM
+Andorid  =>   mockito / Expresso
+iOS    =>    kiff
+
+Aparecido (Chefinho)  4:14 PM
+teste de api status code
+response
+teste de contrato integridado dos campos e formato
+
+Aparecido (Chefinho)  3:01 PM
+https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.crashlytics.com%2Fregister%2FssfoJoHFppiJCYqx9D1mx7z2%2Frsvp%3Futm_medium%3Demail%26utm_source%3Dinvite_tester&data=02%7C01%7Caparecido.oliveira%40concrete.com.br%7C61d95816bd5446b2639108d6e2cc24db%7Ce0793d390939496db129198edd916feb%7C0%7C0%7C636945763757994502&sdata=PEoJ2BA6yHjqkPfKUfOgEoBnIWUPm%2BYHfZR5JRH1MwQ%3D&reserved=0
+DEV
+3:01
+https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.crashlytics.com%2Fregister%2FDDNydeQuWZLzytbGD5zaEUPy%2Frsvp%3Futm_medium%3Demail%26utm_source%3Dinvite_tester&data=02%7C01%7Caparecido.oliveira%40concrete.com.br%7Cdefd716297e04d25a1d008d6e2cc328c%7Ce0793d390939496db129198edd916feb%7C0%7C0%7C636945763986668528&sdata=Rc3b4g1%2F8DefC6we9G9rOEpAXsXa4cpxmPEQjTfUWZ0%3D&reserved=0
+HOMOLOG
+
+Aparecido (Chefinho)  9:06 AM
+Para mostrar os containers em funcionamento - docker ps
+Para mostrar a lista de todos os containers (em funcionamento ou não) - docker ps -a
+Pra colocar um container parado em funcionamento - docker start nome_do_container
+Pra colocar um container em funcionamento no estado parado - docker stop nome_do_container
+
+Aparecido (Chefinho)  9:20 AM
+https://hdes504.ecom.carrefour:9002/hmc/hybris
+
+Aparecido (Chefinho)  5:45 PM
+``
+ id: br.com.carrefour.mcommerce.dev:id/scanner``
+
+Aparecido (Chefinho)  9:57 AM
+checkout_selecionar_endenreco_steps 
+# Dado("que estou na seleção de endereço no checkout") do
+#    steps 'Dado que me autentiquei no app sem endereco de entrega 
+#           E navego até a home Comprar
+#           E selecionar uma categoria de produto
+#           E adiciono produto atraves da pdp
+Click to expand inline (24 lines)
+
+
+
+9:59
+checkout_selecionar_endereco.feature 
+# Refotarar - Adicionar passo para incluir item no carrinho
+  #   @android @ios @ecommerce
+  # Cenário: No fluxo de compra, o usuário deve ser direcionado para a tela de cadastro de endereço de entrega, caso não tenha endereço de entrega cadastrado
+  #   Dado que me autentiquei no app sem endereco de entrega
+  #   E que navego até a home Comprar
+Click to expand inline (10 lines)
+
+
+
+
+Aparecido (Chefinho)  10:41 AM
+android.widget.Button
+ text: OK, ENTENDI
+ id: android:id/button1
+=> nil
+
+Aparecido (Chefinho)  1:11 PM
+Thiago Lioy
+At;e agora eu tenho os seguintes chamados abertos.
+Bruno Fernandes - INC11368560
+Vinicius França Nunes Silva - RITM3423318
+Guilherme Bayma - RITM3423260
+Victor Magpali Robertson - RITM3423012
+Henrique Santiago Araújo – RITM3423091
+Show more
+Posted in #iossptrocamaquinas | Apr 26th, 2019 | View message
+
+Aparecido (Chefinho)  5:59 PM
+README.md 
+# QA - APPIUM
+Este é o repositório dos testes automatizados do projeto Meu Carrefour. Appium é uma ferramenta Open Source e multi-plataforma para automação de aplicações nativas, híbridas e sites mobile para os principais sistemas operacionais do mercado: Android, iOS (e agora para FirefoxOS).
+## Pré-requisitos
+​
+## Xcode
+Click to expand inline (145 lines)
+
+
+
+6:00
+Untitled 
+# Android
+ANDROID_DEVICE_NAME= Nexus 5X API 26
+APK_PATH= /Users/aparecidooliveira/dev/Carrefour/Android_Develop/carrefour-mcommerce-android/app/build/outputs/apk/qa/app-qa.apk
+​
+Click to expand inline (13 lines)
+
+
+
+
+Aparecido (Chefinho)  8:41 AM
+https://ecommercecarrefour.atlassian.net/secure/RapidBoard.jspa?rapidView=196&view=planning&selectedIssue=APP-5529
+8:41
+https://console.firebase.google.com/u/0/?pli=1
+8:42
+https://bitbucket.org/carrefour_ecommerce/carrefour-mcommerce-appium/pull-requests/382/ao-avaliaraaplica-o/diff
+8:42
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+8:43
+https://app.sympli.io/app#!/projects
+
+app.sympli.ioapp.sympli.io
+Login - Sympli.io
+Make pixel perfect apps. Simply.
+
+Aparecido (Chefinho)  9:19 AM
+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 (edited) 
+9:22
+copiar e colar na pasta ~/.ssh
+4 files 
+config
+Plain TextClick to view details
+
+
+
+id_rsa
+3 kB Plain TextClick to view details
+
+
+
+id_rsa.pub
+Plain TextClick to view details
+
+
+
+known_hosts
+2 kB Plain TextClick to view details
+
+
+
+
+Aparecido (Chefinho)  11:10 AM
+chown aparecido.oliveira:staff test   =>         coloca permissao de acesso ao usuario e grupo
+chown $user:staff test      =>          pega o usuario logado
+chmod 777 test     =>    colocar permissao full no arquivo
+chmod +x test        =>    colocar permissao de rodar
+chmod 644 test      =>   colocar permissao de leitura e escrita (RECOMENDAVEL)
+ls -la                         => MOSTRA TUDO
+
+Aparecido (Chefinho)  10:36 AM
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+10:37
+https://www.youtube.com/watch?v=tIajgzLxxrQ
+
+YouTubeYouTube | TVCidadeVerde
+Pneus especiais para rodar na chuva 
+
+10:38
+machine learn
+http://www.evosuite.org/documentation/commandline/
+https://github.com/EvoSuite/evosuite (edited) 
+
+GitHubGitHub
+EvoSuite/evosuite
+EvoSuite - automated generation of JUnit test suites for Java classes - EvoSuite/evosuite
+
+Aparecido (Chefinho)  3:07 PM
+teste contrato 
+'use strict'
+require('mochawesome/addContext')
+const request = require('supertest')
+const expect = require('chai').expect
+Click to expand inline (51 lines)
+
+
+
+
+Aparecido (Chefinho)  2:47 PM
+customercontrato 
+/* eslint-disable prefer-const */
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-shadow */
+/* eslint-disable prefer-destructuring */
+/* eslint-disable vars-on-top */
+Click to expand inline (98 lines)
+
+
+
+
+Aparecido (Chefinho)  2:03 PM
+Boa tarde galera
+Hoje eu trouxe mousse de morango
+Que tal aproveitar que está calor e comer um delicioso mousse
+Estou no 3 andar em SP
+Projeto carrefour
+
+Aparecido (Chefinho)  2:02 PM
+texto de receber promoção no raio de 10metros 
+############################# notificar produtos da loja que esta em ofertas ##############################
+Click to expand inline (15 lines)
+
+
+
+
+Aparecido (Chefinho)  12:46 PM
+https://www.git-tower.com/learn/git/faq/undo-last-commit
+
+git-tower.comgit-tower.com
+How can I undo the last commit?
+Our learn section helps you get started with various web and software skills. Free online books, videos, and ebooks get you off the ground as quickly as possible. (61 kB)
+https://www.git-tower.com/learn/git/faq/undo-last-commit
+
+12:46
+https://www.codota.com/code/javascript/modules/supertest
+
+codota.comcodota.com
+supertest JavaScript and Node.js code examples | Codota
+.delete("/api-docs/external-refs.yaml")... .expect(404)... .end(done); (47 kB)
+https://www.codota.com/code/javascript/modules/supertest
+
+12:46
+https://medium.com/cwi-software/testes-de-contrato-de-api-com-joi-1ce552fe2531
+
+MediumMedium
+Testes de contrato de API com Joi
+Quem nunca se deparou com alguns problemas de contratos em API? Seja você desenvolvedor, testador ou analista. Em algum determinado tempo…
+Reading time
+5 min read
+Mar 9th, 2018
+https://medium.com/cwi-software/testes-de-contrato-de-api-com-joi-1ce552fe2531
+
+
+Aparecido (Chefinho)  3:02 PM
+Untitled 
+'use strict'
+require('mochawesome/addContext')
+const request = require('supertest')
+const expect = require('chai').expect
+Click to expand inline (139 lines)
+
+
+
+
+Aparecido (Chefinho)  2:22 PM
+Untitled 
+@ 
+Cenário: Os cupons são retornado ao realizar uma busca com três caracteres
+    Dado que estou na tela de cupons de ofertas
+    Quando selecionar a opção de busca de cupons
+    E informar na descrição apenas três caracteres no campo de busca do cupom
+Click to expand inline (6 lines)
+
+
+
+
+Aparecido (Chefinho)  1:23 PM
+wait_true{find_element(name: "Search ").displayed?}
+find_element(name: 'coupon_home_description_label').click
+
+Aparecido (Chefinho)  2:53 PM
+configuracao cucumber.yml 
+​
+android: PLATFORM=android -f json -o cucumber.json -r features/support/utils.rb -r features/support/hooks.rb -r features/support/env.rb -r features/support/dados.rb -r features/android -r features/step_definitions --exclude features/ios
+android_qa: PLATFORM=android -f json -o cucumber.json -r features/support/utils.rb -r features/support/hooks.rb -r features/support/dados.rb -r features/support/qa/env.rb -r features/android -r features/step_definitions --exclude features/ios 
+android_homolog: PLATFORM=android -f json -o cucumber.json -r features/support/utils.rb -r features/support/hooks.rb -r features/support/homolog/dados.rb -r features/support/homolog/env.rb -r features/android -r features/step_definitions --exclude features/ios 
+android_prod: PLATFORM=android -f json -o cucumber.json -r features/support/utils.rb -r features/support/hooks.rb -r features/support/prod/dados.rb -r features/support/prod/env.rb -r features/android -r features/step_definitions --exclude features/ios 
+Click to expand inline (9 lines)
+
+
+
+
+Aparecido (Chefinho)  2:36 PM
+                            console.log(`res: ${JSON.stringify(res)}`)
+                console.log(`res: ${JSON.stringify( res)}`)
+(edited)
+
+Aparecido (Chefinho)  5:14 PM
+carrefour-mcommerce-perfomance-test]$ artillery run em_algum_lugar_daqui/index.yml -e development -o relatorio_location.json
+
+Aparecido (Chefinho)  10:41 AM
+https://blog.usejournal.com/react-native-continuous-deployment-628468f2e2f1
+https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101
+https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-2-825057dd549d
+https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-3-c4161a813af6
+https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-4-1d6df49866b1
+https://medium.com/@oieduardorabelo/react-native-e-detox-f3e500337ca9
+https://medium.com/assertqualityassurance/appium-automa%C3%A7%C3%A3o-para-apps-mobile-a256db64a27d
+https://medium.com/@heitorcolangelo/testes-no-android-com-espresso-parte-1-8d739672a235
+https://www.calculador.com.br/calculo/salario-liquido
+http://100.68.3.162/v1/health
+http://slave-mcom/v1/health
+http://100.68.3.162/v1/health
+https://console.firebase.google.com/u/1/project/carrefour-dev-homol-qa/analytics/app/android:br.com.carrefour.mcommerce.dev/debugview~2F%3Ft=1572550512006&fpn=592480605929&swu=1&sgu=1&sus=not_upgraded&cs=app.m.debugview.overview&g=1 (edited) 
+
+Aparecido (Chefinho)  2:32 PM
+Pessoal, vai rolar um leilão da Receita Federal, com lances a partir do dia 28/11/2019 às 08:00h. Interessante pra quem é de SP, pois as mercadorias estão no aeroporto de Garulhos.
+http://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/817600/4/2019/lote/41
+
+Aparecido (Chefinho)  3:32 PM
+Checkout revisao do pedido
+@AGUARDANDO_IMPLEMENTACAO Cenário: O usuário poderá alterar o número de parcelas da compra na tela de revisão do pedido Dado que estou na revisão do pedido E que revise os itens da minha compra alterando o parcelamento Quando voltar para a tela de revisão do pedido Então posso escolher um novo parcelamento
+Catalogo publico
+@AGUARDANDO_IMPLEMENTACAO Cenário: Usuário não logado sem acesso ao catálogo liberado pela PDP Dado que navego até a home Comprar E selecionar uma categoria de produto E navegar até a tela de PDP do produto E navegar até a tela de CEP Quando informo um CEP não elegível Então devo visualizar a mensagem indicando estar fora da áre de entrega
+checkout_agendar_entrega
+#apresenta msg indisponivel para slots que nao sao noite - nao tem como executar esse cenario Cenário: O usuário poderá mudar o período de entrega entre as opções disponíveis E selecionar o tipo de entrega "#Tarde" Quando selecionar o tipo de entrega "#Noite" Então posso ver a tela de pagamento
+PX497565560BR
+(edited)
+
+Aparecido (Chefinho)  3:05 PM
+if [ -f "$(brew --prefix bash-git-prompt)/share/gitprompt.sh" ]; then
+   GIT_PROMPT_THEME=Default
+   source "$(brew --prefix bash-git-prompt)/share/gitprompt.sh"
+fi
+if [ -f $(brew --prefix)/etc/bash_completion ]; then
+   . $(brew --prefix)/etc/bash_completion
+fi
+##ANDROID_HOME
+export ANDROID_HOME=/Users/aparecido.oliveira/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/bin:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$ANDROID_HOME/lib:$ANDROID_HOME/tools/lib:$ANDROID_HOME/bin
+##JAVA_HOME
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home
+export PATH=$PATH:$JAVA_HOME
+export PATH=$PATH:$JAVA_HOME/bin
+export PATH=~/Users/aparecido.oliveira/Documents/drivers/apache-maven-3.5.3/bin:$PATH
+export PATH="$PATH:/opt/yarn-[1.6.0]/bin"
+##Fastlane_Carrefour
+export FASTLANE_USER="carrefour.brasil.mobile@gmail.com"
+export FASTLANE_PASSWORD="C4rr3f0ur.Mobi1"
+##Flutter
+export FLUTTER_HOME=/Users/aparecido.oliveira/Documents/flutter/bin
+export PATH=$PATH:$FLUTTER_HOME
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+##criando alias
+alias auto='/Users/aparecido.oliveira/Library/Android/sdk/tools/bin/uiautomatorviewer'
+alias emulador='/Users/aparecido.oliveira/Library/Android/sdk/tools/emulator -avd Nexus_test&'
+alias bash_profile='open ~/.bash_profile'
+alias carrega_bash='source ~/.bash_profile'
+
+Aparecido (Chefinho)  11:25 AM
+Devemos documentar o que foi feito no projeto?
+Ultimamente estou passando por um término de projeto, e me perguntaram sobre a documentação do projeto, e meus amigos a documentação que é um terror dos Devs e dos QAs. Ao me fazerem essa pergunta eu pensei a melhor maneira de fazer essa documentação, e a melhor maneira que eu achei foi criar uma WIKI no repositório do projeto.
+Então falei com um desenvolvedor como eu poderia criar um menu para que eu desse início na WIKI. Ele criou só o menu e eu fiquei com todo o trabalho de montar ela sozinha.
+ Obs.: Neste post estou utilizando o bitbucket como exemplo, porém ela pode ser feita em qualquer repositório.
+Alguém sabe oque e Wiki?
+Ai vai uma definição: É uma página onde contém todas as informações necessárias para dar continuidade no projeto se algum membro sair, ou se iniciar um membro novo no time por isso deve conter quais as tecnologias utilizada pelo time no projeto, Quais ferramentas, instalar elas e como utiliza-las e qual o processo do projeto.
+Vantagens de se ter uma Wiki
+·      Qualquer um pode editar;
+·      Documentação para se for preciso você ficar ausente, com a Wiki fica fácil de manter
+·      Fácil utilização e aprendizado.
+·      E uma Documentação viva para o projeto, onde todos podem colaborar para deixá-la rica de conteúdo.
+·      Permite a fácil navegação entre páginas de conteúdo, acessadas por ligações no próprio texto (geralmente destacadas em azul).
+Quais as Desvantagens de se ter uma wiki
+·      Se a Wiki não for feita no início do projeto, quando chegar no fim do projeto pode se tornar custosa e trabalhosa;
+·      Ela deve ter uma manutenção constante, sem a manutenção ela não serve para nada.
+·      Difícil entendimento de estrutura de conteúdo para iniciantes.
+·      Não pode conter informações nas quais não seja sobre o projeto.
+Como criar uma Wiki e utilizar alguns truques de Markdown.
+1° Entre no seu projeto e verifique se é administrador. Se a página inicial apresenta esse item das imagens a seguir, quer dizer que é administrador.
+Por que devemos documentar oque foi feito no projeto ?
+Ultimamente estou passando por um termino de projeto, e me perguntaram sobre a documentação do projeto, e meus amigos a documentação que e um terror dos Devs e dos QAs. Ao me fazerem essa pergunta eu pensei a melhor maneira de fazer essa documentação, e a melhor maneira que eu achei foi criar uma WIKI no repositório do projeto.
+Então falei com um desenvolvedor como eu poderia criar um menu para que eu desse inicio na WIKI. Ele criou só o menu e eu fiquei com todo o trabalho de montar ela sozinha. 
+ Obs: Neste post estou utilizando o bitbucket como exemplo, porém ela pode ser feita em qualquer repositório.
+Alguém sabe oque e Wiki?
+Ai vai uma definição: É uma página onde contém todas as informações necessárias para dar continuidade no projeto se algum membro sair, ou se iniciar um membro novo no time por isso deve conter quais as tecnologias utilizada pelo time no projeto, Quais ferramentas, instalar elas e como utiliza-las e qual o processo do projeto.
+Vantagens de se ter uma Wiki
+Qualquer um pode editar;
+Documentação para se for preciso você ficar ausente, com a Wiki fica fácil de manter
+Fácil utilização e aprendizado.
+E uma Documentação viva para o projeto, onde todos podem colaborar para deixar ela rica de conteúdo.
+Permite a fácil navegação entre páginas de conteúdo, acessadas por ligações no próprio texto (geralmente destacadas em azul).
+Quais as Desvantagens de se ter uma wiki
+Se a Wiki não for feita no inicio do projeto, quando chegar no fim do projeto pode se tornar custosa e trabalhosa;
+Ela deve ter uma manutenção constante, Sem a manutenção ela não serve para nada.
+Difícil entendimento de estrutura de conteúdo para iniciantes.
+Não pode conter informações nas quais não seja sobre o projeto.
+11:25
+Como criar uma Wiki e utilizar alguns truques de Markdown.
+1° Entre no seu projeto e verifique se é administrador. Se a página inicial apresenta esse item da imagens a seguir, quer dizer que e administrador.
+
+Aparecido (Chefinho)  3:51 PM
+rayzen 9 processador                               3000
+placa de video rtx2070                            3000
+memoria 2 de 16gb ddr43200mghz      600
+fonte 600watz                                          300
+placa mae gigabyte b450  orus               700
+ssd 500gb                                                  200
+hd 1tera                                                     200
+gabinete (edited) 
+
+Aparecido (Chefinho)  11:35 AM
+Binary 
+Untitled
+54 kB Binary54 kB — Click to download
+
+
+
+Aparecido (Chefinho)  2:22 PM
+http://angiejones.tech/test-automation-code-smells/
+
+Angie JonesAngie Jones
+Test Automation Code Smells
+A code smell is code that isn't technically wrong, meaning, it works; however, the implementation of said code is problematic in that it's difficult to manage and thus can lead to delayed development time and even the introduction of bugs. There are many writings about code smells in application code, but it's not always apparent how to clean up those smells within a test automation code base. There are also code smells which are unique to test automation in particular, which cannot be found in those writings.I've written about seven code smells in test automation, and how you can refactor your code to rid it of the smells.
+Apr 28th, 2019
+http://angiejones.tech/test-automation-code-smells/
+
+2:22
+https://techbeacon.com/app-dev-testing/7-ways-tidy-your-test-code
+
+TechBeaconTechBeacon
+7 ways to tidy up your test code | TechBeacon
+It's spring. Time to clean up the smelly code in your test automation. Follow Angie Jones' advice to once again have code that sparks joy. (91 kB)
+Reading time
+7 min read
+https://techbeacon.com/app-dev-testing/7-ways-tidy-your-test-code
+
+2:23
+https://techbeacon.com/app-dev-testing/4-rules-improve-your-test-automation-code
+
+TechBeaconTechBeacon
+4 rules to improve your test automation code | TechBeacon
+Treating your test code like your production code will improve its readability, stability, and maintainability. Here are four key rules. (54 kB)
+Reading time
+11 min read
+https://techbeacon.com/app-dev-testing/4-rules-improve-your-test-automation-code
+
+
+Aparecido (Chefinho)  2:35 PM
+5 files 
+38484157_1097632210384387_4964780274878513152_o.jpg
+
+
+chefinho.png
+
+
+WhatsApp Image 2019-08-15 at 09.23.58 (1).jpeg
+
+
+WhatsApp Image 2019-08-15 at 09.23.58.jpeg
+
+
+WhatsApp Image 2019-08-15 at 09.43.57.jpeg
+
+
+
+Aparecido (Chefinho)  11:13 AM
+RACF: APAFEOL
+Senha: bnn139
+
+Aparecido (Chefinho)  9:38 AM
+///////////////////////// Escrevendo teste com cSSELECTOR /////////////////////////////////////////////////////////////////////////////////////////////////
+        // escrevendo nome na caixa de texto 1 First Name
+        navegador.findElement(By.cssSelector("#PismoID > div > div > div > form > div.mb5 > div:nth-child(1) > input")).sendKeys("rogerio.nishiwaki@itau-unibanco.com.br");
+        // escrevendo o nome na caixa de texto 2 Last Name   ®
+        navegador.findElement(By.cssSelector("#PismoID > div > div > div > form > div.mb5 > div:nth-child(2) > input")).sendKeys("Itubb!99");
+        // cliclando no botao
+        navegador.findElement(By.cssSelector("#PismoID > div > div > div > form > div:nth-child(2) > button")).click();
+        //busca do cpf
+//        Thread.sleep(15000);
+//        WebElement cpf = navegador.findElement(By.name("CustomerSearchInput"));
+        List<WebElement> cpf = navegador.findElements(By.cssSelector("#root > div > div:nth-child(3) > div > div > input"));
+//        cpf.isDisplayed();
+        cpf.get(1).sendKeys("t");
+//        cpf.click();
+//        cpf.sendKeys("t");
+        // cliclando no extrato
+        Thread.sleep(15000);
+        navegador.findElement(By.cssSelector("/html/body/div/div/div[3]/div/nav/ul/li[2]/a/div[2]")).click();
+
+Aparecido (Chefinho)  10:30 AM
+ANTIGO
+Thread.sleep(15000);
+////        WebElement cpf = navegador.findElement(By.name("CustomerSearchInput"));
+//        List<WebElement> cpf = navegador.findElements(By.className("input-reset"));
+////        cpf.isDisplayed();
+//        cpf.get(0).sendKeys("t");
+////        cpf.click();
+////        cpf.sendKeys("t");
+//        WebElement cpf = navegador.findElement(By.className("input-reset"));
+//        navegador.findElement(By.className("CustomerSearchInput")).sendKeys("Itubb!99");
+//        // cliclando no extrato
+//        Thread.sleep(15000);
+////        navegador.findElement(By.cssSelector("#root > div > div:nth-child(3) > div > nav > ul > li.tc.link-btn-container.w-19.prepaid > a > div.pismo-light-silver.link-btn-label")).click();
+//        List<WebElement> cpf = navegador.findElements(By.name("pismo-light-silver link-btn-label"));
+//        cpf.get(1).click();
+
+Aparecido (Chefinho)  2:04 PM
+//abrindo um extrato
+//    navegador.findElement(By.xpath("//*[@id='root']/div/div[3]/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div/div[1]/li/div[2]/div/p/span")).click();
+   //*[@id="root"]/div/div[3]/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div/div[1]/li/div[3]/div/p
+   //*[@id="root"]/div/div[3]/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div/div[1]/li/div[3]/div
+    navegador.findElement(By.xpath("*[@id='root']/div/div[3]/div/div/div[1]/div[2]/div/div[2]/div[1]/div/div/div[1]/li/div[3]/div")).click();
+    Thread.sleep(5000);
+//    navegador.findElement(By.xpath("/html/body/div[2]/div/div/div[2]/button/svg/g/path")).isDisplayed();
+    navegador.findElement(By.cssSelector("body > div.fixed.w-100.h-100.top-0.left-0.dt.bg-black-70.z-9999.animate-all.o-100 > div > div > div.absolute.top-0.right-1.mt1 > button > svg")).click();
+
+Aparecido (Chefinho)  3:00 PM
+suicidesquad trader
+coringa economico
+@activities
+
+Aparecido (Chefinho)  11:14 AM
+https://in.accenture.com/protectingaccenture/dashboard/?referrer=mailer
+
+Aparecido (Chefinho)  3:18 PM
+git pull --rebase
+bundle install
+bundle exec pod install
+carthage update --cache-builds --platform ios CarrefourAPI
+carthage update --cache-builds --platform ios
+ruby config/ios/build_app.rb aparecidoDev
+fastlane init_certs_readonly
+============================================================================================================================= (edited) 
+3:19
+=============================================================================================================================
+build do apk
+ ./gradlew assembleRelease
+instalar o apk
+adb install app/build/outputs/apk/release/app-release.apk
+============================================================================================================================= (edited) 
+3:23
+=============================================================================================================================
+instalar em release
+export RELEASE_KEYSTORE_PWD=VJ9EV84KPL9XFNKB
+export RELEASE_KEY_ALIAS=carrefour
+build do apk
+ ./gradlew assembleRelease
+instalar o apk
+adb install app/build/outputs/apk/release/app-release.apk    <=====   EMULADOR E OBRIGADO ESTA FECHADO
+ adb install -r app/build/outputs/apk/release/app-release.apk (edited) 
+
+
+
+
+
+
+Aparecido (Chefinho)  11:33 AM
+o
+
+
+Jot something down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thread
+pessoas
+
