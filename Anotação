@@ -1011,32 +1011,75 @@ build do apk
 instalar o apk
 adb install app/build/outputs/apk/release/app-release.apk    <=====   EMULADOR E OBRIGADO ESTA FECHADO
  adb install -r app/build/outputs/apk/release/app-release.apk (edited) 
+ 
+ Aparecido (Chefinho)  5:30 PM
+find_element(:xpath, "//*[contains(@text,'Folheto de Ofertas')]").click
+
+Aparecido (Chefinho)  5:36 PM
+find_element(:xpath, "//*[contains(@label,'Folheto de Ofertas')]").click
+COMANDO PARA                IOS
+
+Aparecido (Chefinho)  10:03 AM
+scroll_to_exact("Pedido Realizado")
+10:03
+def status_pedido_cancelado
+       9.times do
+           scroll_pra_baixo
+       end
+10:04
+iOS
+scroll_esquerda(element_banner_home)
+10:05
+swipe(direction:'left')
+10:05
+def scroll_comprar
+   sleep 1
+   swipe(direction:'up')
+ end
+ def selecionar_edicao_produto
+  sleep 1
+  swipe(direction:'down')
+  wait{find_elements(name: @btn_editar_dados)[2].click}
+ end
 
 
+Aparecido (Chefinho)  3:59 PM
+esse e para iOS
+find_element(:xpath, "//*[contains(@label,'Salvar alterações')]").click
 
 
+find_element(id:"id do campo que deseja digitar").send_keys("Dragon Ball Z")
+find_element(name: "id do campo que deseja digitar ").send_keys("texto que deseja digitar")
 
+[caps]
+    deviceName = "Pixel_2_API_29"
+    platformName = "Android"
+    app = '/Users/eriton.da.goncalves/Documents/PROJETOS/sky-selfcare-android/app/build/outputs/apk/preproduction/debug/app-preproduction-debug.apk'
+    avd = 'Pixel_2_API_29'
+    newCommandTimeout = 999999
+    language = "pt"
+    locale = "BR"
+    autoGrantPermissions = true
+    noReset = false
+    automationName = 'UiAutomator2'
+    adbExecTimeout = 999999
+    useNewWDA = true
+    implicit = 1
+    appWaitActivity = '*.TabActivity'
+1:50
+[caps]
+    platformName = "iOS"
+    platformVersion = "12.4"
+    deviceName = "iPhone 8"
+    app = '/Users/eriton.da.goncalves/Library/Developer/Xcode/DerivedData/MinhaSky-dqwrzoqvbxhyftcrjjanwltgqdpj/Build/Products/Debug PrePrd-iphonesimulator/MinhaSkySwift.app'
+    automationName = "XCUITest"
+    enforceFreshSimulatorCreation = false
+    #autoAcceptAlerts = true
+    language = "pt"
+    locale = "BR"
+    #noReset = true
+    useNewWDA = true
+    newCommandTimeout = 999999
+    enforceFreshSimulatorCreation = false
 
-Aparecido (Chefinho)  11:33 AM
-o
-
-
-Jot something down
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Thread
-pessoas
 
