@@ -73,3 +73,6 @@ find_element(id: "showInvisible").click
 = Método para a criação de emails aleatórios
 
 driver.execute_script 'mobile: scroll', :direction => "down"
+
+-binding.pry ====> abre o modo debug do projeto
+depois que abrir o modo DEBUG  utilizar a palavra **PAGE** para pegar os elementos da tela
