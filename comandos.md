@@ -74,6 +74,6 @@ find_element(id: "showInvisible").click
 
 driver.execute_script 'mobile: scroll', :direction => "down"
 
--binding.pry ====> abre o modo debug do projeto
+- binding.pry ====> abre o modo debug do projeto
 
-depois que abrir o modo DEBUG  utilizar a palavra **PAGE** para pegar os elementos da tela
+- depois que abrir o modo DEBUG  utilizar a palavra **PAGE** para pegar os elementos da tela
